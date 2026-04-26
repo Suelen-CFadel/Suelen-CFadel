@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" alt="Python" />
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
@@ -16,7 +16,7 @@ Sou **Suelen**, desenvolvedora em formação aprendendo **Python** e **JavaScrip
 
 ### 🛠️ Ferramentas e Ambiente:
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" alt="VS Code" />
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="50" alt="Windows" />
