@@ -1,1 +1,1 @@
-﻿![](https://www.python.org/static/community_logos/python-logo.png)
+﻿![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
